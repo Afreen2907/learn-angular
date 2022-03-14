@@ -25,4 +25,6 @@ There are alrd prebuilt dependencies but we are adding bootstrap as one of our s
 so go to angular.json
 
 architect: build: styles: add "node_modules/bootstrap/dist/css/bootstrap.min.css"
+
+ Verify the installation by going to browser > inspect > source > Style.css
   
