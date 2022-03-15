@@ -61,3 +61,32 @@ short form -> ng g c servers
 It will automatically create components and register the components in the module
   
 #Selector in decorators
+3 types of selectors can be used
+
+#What is Data binding?
+Databinding = communication
+Communication between
+
+Business Logic and template(HTML)
+-----> Output Data ------>
+Databing can be done by
+String Interpolation({{data}})
+Property Binding([property] = "data")
+<------React to user events <-----
+Event Binding((event) = "expression")
+
+combination of both: Two-way-bindingS
+
+
+#String Interpolation {{ Data }}
+
+The data that we pass to the String Interpolation has to be a string in the end.
+
+We can just give {{ <expression which points to properties> }} or {{ '<string>'}} or {{ <function that returns string>}} or ever a ternary expression
+
+We cannot however write multiline expression like if, for ...
+
+#Property Binding [property] = "data"
+
+#Event Binding (event) = "Expression"
+
