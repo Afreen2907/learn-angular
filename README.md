@@ -42,4 +42,13 @@ Then we need to import the decorator for typscript to know and it will parse the
 Setup meta data at the decorator
 1) Selector -> have to be unique selector
 2) Template -> creation of html template and referenced in ts file
+
+#About Modules
+What is app modules?
+
+Angular uses components to build the web pages
+while app modules bundle them together
+
+Register the new components in the appModule
+add the new component in declaration array
   
