@@ -60,3 +60,4 @@ short form -> ng g c servers
 
 It will automatically create components and register the components in the module
   
+#Selector in decorators
