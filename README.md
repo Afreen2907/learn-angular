@@ -57,4 +57,6 @@ add the new component in declaration array
 
 at the terminal > ng generate componenet servers
 short form -> ng g c servers
+
+It will automatically create components and register the components in the module
   
