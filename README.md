@@ -51,4 +51,10 @@ while app modules bundle them together
 
 Register the new components in the appModule
 add the new component in declaration array
+
+
+#Generating Components using CLI
+
+at the terminal > ng generate componenet servers
+short form -> ng g c servers
   
