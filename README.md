@@ -90,3 +90,7 @@ We cannot however write multiline expression like if, for ...
 
 #Event Binding (event) = "Expression"
 
+#What are Directive?
+
+They are instructions in the DOM
+
